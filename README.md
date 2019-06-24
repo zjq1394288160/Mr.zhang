@@ -12,6 +12,6 @@
 ### | JavaScript是如何工作的系列
 
 
-1. [手撸JavaScript中的节流和防抖](https://github.com/zjq1394288160/Mr.zhang/issues)
+1. [手撸JavaScript中的节流和防抖](https://github.com/zjq1394288160/Mr.zhang/issues/2)
 
 
