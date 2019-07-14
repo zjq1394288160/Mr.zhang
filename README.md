@@ -15,9 +15,11 @@
 1. [手撸JavaScript中的节流和防抖](https://github.com/zjq1394288160/Mr.zhang/issues/2)
 2. [js前端路由实践](https://github.com/zjq1394288160/Mr.zhang/issues/3)
 
-# 后续写作系列
-
 ### vue系列
+
+1. [vue-cli3+webpack构建多页脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/4)
+
+# 后续写作系列
 
 ### webpack系列
 
