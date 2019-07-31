@@ -18,6 +18,7 @@
 ### vue系列
 
 1. [vue-cli3+webpack构建多页脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/4)
+2. [从零开始用webpack搭建vue脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/5)
 
 # 后续写作系列
 
