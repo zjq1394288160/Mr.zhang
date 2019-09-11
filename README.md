@@ -28,5 +28,6 @@
 ### mpvue小程序系列
 
 ### 面试系列
+1. [当面试官的三两事](https://github.com/zjq1394288160/Mr.zhang/issues/7)
 
 
