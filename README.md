@@ -18,8 +18,9 @@
 ### vue系列
 
 1. [vue-cli3+webpack构建多页脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/4)
-2. [从零开始用webpack搭建vue脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/5)
-3. [浅析vue双向绑定原理](https://github.com/zjq1394288160/Mr.zhang/issues/6)
+2. [浅析vue双向绑定原理](https://github.com/zjq1394288160/Mr.zhang/issues/6)
+3. [从零开始用webpack搭建vue脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/5)
+4. [浅析vue3.0--reactivity响应式原理](https://github.com/zjq1394288160/Mr.zhang/issues/8)
 
 # 后续写作系列
 
