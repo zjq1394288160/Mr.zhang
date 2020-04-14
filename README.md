@@ -22,14 +22,17 @@
 3. [从零开始用webpack搭建vue脚手架](https://github.com/zjq1394288160/Mr.zhang/issues/5)
 4. [浅析vue3.0--reactivity响应式原理](https://github.com/zjq1394288160/Mr.zhang/issues/8)
 
-# 后续写作系列
+### 小程序系列
+1. [mpvue踩坑之旅](https://github.com/zjq1394288160/Mr.zhang/issues/11)
+2. [mpvue转uni-app填坑指南](https://github.com/zjq1394288160/Mr.zhang/issues/10)
 
-### webpack系列
-
-### mpvue小程序系列
 ### css系列
 1. [前端常见的经典布局](https://github.com/zjq1394288160/Mr.zhang/issues/9)
 ### 面试系列
 1. [当面试官的三两事](https://github.com/zjq1394288160/Mr.zhang/issues/7)
+
+# 后续写作系列
+
+### vue源码系列
 
 
